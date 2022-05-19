@@ -52,8 +52,3 @@ This project is **deployed** at: https://check-mate-btp.herokuapp.com/
   </code>
 </pre>
 
-## Todo 🔨🔨🔨
-
-- [x] Switch Camera options
-
-
